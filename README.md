@@ -1,4 +1,3 @@
-# VR
 
 theme: jekyll-theme-modernist
 
